@@ -103,7 +103,7 @@ Check out the [Quickstart](https://huggingface.co/docs/diffusers/quicktour) to l
 
 | **Documentation**                                                   | **What can I learn?**                                                                                                                                                                           |
 |---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Tutorial](https://huggingface.co/docs/diffusers/tutorials/tutorial_overview)                                                            | A basic crash course for learning how to use the library's most important features like using models and schedulers to build your own diffusion system, and training your own diffusion model.  |
+| [Tutorial](https://huggingface.co/docs/diffusers/tutorials/tutorial_overview)                                                            | A basic crash course for learning how to use the library's most important features like using models and schedulers to build and training your own diffusion model.  |
 | [Loading](https://huggingface.co/docs/diffusers/using-diffusers/loading_overview)                                                             | Guides for how to load and configure all the components (pipelines, models, and schedulers) of the library, as well as how to use different schedulers.                                         |
 | [Pipelines for inference](https://huggingface.co/docs/diffusers/using-diffusers/pipeline_overview)                                             | Guides for how to use pipelines for different inference tasks, batched generation, controlling generated outputs and randomness, and how to contribute a pipeline to the library.               |
 | [Optimization](https://huggingface.co/docs/diffusers/optimization/opt_overview)                                                        | Guides for how to optimize your diffusion model to run faster and consume less memory.                                                                                                          |
@@ -215,7 +215,7 @@ This library concretizes previous work by many different authors and would not h
 - @ermongroup's DDIM implementation, available [here](https://github.com/ermongroup/ddim)
 - @yang-song's Score-VE and Score-VP implementations, available [here](https://github.com/yang-song/score_sde_pytorch)
 
-We also want to thank @heejkoo for the very helpful overview of papers, code and resources on diffusion models, available [here](https://github.com/heejkoo/Awesome-Diffusion-Models) as well as @crowsonkb and @rromb for useful discussions and insights.
+We also want to thank @heejkoo for the very helpful overview of papers, code, and resources on diffusion models, available [here](https://github.com/heejkoo/Awesome-Diffusion-Models) as well as @crowsonkb and @rromb for useful discussions and insights.
 
 ## Citation
 
